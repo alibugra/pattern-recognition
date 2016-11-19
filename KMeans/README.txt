@@ -1,0 +1,4 @@
+- Firstly, Run KMeans.m file
+- Then, create an instance "km = KMeans()"
+- Next, call the "run(km)" method
+- Finally, see the result as compression image according to number of clusters
