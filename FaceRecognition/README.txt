@@ -1,0 +1,4 @@
+- Firstly, Run FaceRecognition.m file
+- Then, create an instance "fg = FaceRecognition()"
+- Next, call the "run(fg)" method
+- Finally, see the results which include eigenfaces and recognized face
