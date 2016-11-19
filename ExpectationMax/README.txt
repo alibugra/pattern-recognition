@@ -1,0 +1,4 @@
+- Firstly, Run ExpectationMax.m file
+- Then, create an instance "em = ExpectationMax()"
+- Next, call the "run(em)" method
+- Finally, see the results
