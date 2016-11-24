@@ -18,3 +18,6 @@ Following parts completed for HW2:
 Following parts completed for HW3:
 - Image compression using K-means clustering
 - Expectation Maximization using Gaussian mixture model. (EM-GMM)
+
+Following parts completed for HW4:
+- Compared RandomForest and NeuralNetwork in handwritten character recognition
